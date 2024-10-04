@@ -17,5 +17,5 @@
 |HTML Templates |  La idea de utilizar plantillas surge cuando una misma estructura de código se usa varias veces. |
 |Shadow DOM | Permite establecer un ámbito propio por cada Web Component, esto quiere decir que cada uno de ellos tendrá su propio DOM por lo que cualquier clase/id definida, estilo CSS o lógica con JavaScript afectará únicamente a los elementos del Web Component. |
 
-### 3. Tutorial::mag:
+### 3. Tutorial: :mag:
 [Muestra una sencilla introducción a la programación de web components](https://www.youtube.com/watch?v=6_LrK6Ky78k&t=25s)
